@@ -1,7 +1,7 @@
-﻿<Application x:Class="ThoughtUserControl.App"
+﻿<Application x:Class="OnlineSession.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:ThoughtUserControl"
+             xmlns:local="clr-namespace:OnlineSession"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
